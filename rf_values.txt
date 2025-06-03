@@ -1,1 +1,2 @@
 RF UNIVERSE : NJ = 95, SPC = 92, ATC = 93, LCC = 94, SPB = 8F, AGB = 90, HSB = 91
+RF EPIC : NJ = 90, SPC = 8D, ATC = 8E, LCC = 8F, SPB = 8A, AGB = 8B, HSB = 8C
