@@ -3,3 +3,4 @@ RF EPIC | HGK : NJ = 90, SPC = 8D, ATC = 8E, LCC = 8F, SPB = 8A, AGB = 8B, HSB =
 RF BRUTAL | HGK : NJ = 78, SPC = 75, ATC = 76, LCC = 77, SPB = 72, AGB = 73, HSB = 74
 RF STORM | HGK : NJ = 93, SPC = 90, ATC = 91, LCC =92, SPB = 8D, AGB = 8E, HSB = 8F
 RF WARDEN | OWN : NJ = 1, SPC = 1, ATC = 2, LCC =3, SPB = 1, AGB = 2, HSB = 3
+RF FORTUNE | OWN : NJ = 1, SPC = 1, ATC = 2, LCC =3, SPB = 1, AGB = 2, HSB = 3
