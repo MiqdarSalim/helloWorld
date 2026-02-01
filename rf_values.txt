@@ -4,3 +4,4 @@ RF BRUTAL | HGK : NJ = 78, SPC = 75, ATC = 76, LCC = 77, SPB = 72, AGB = 73, HSB
 RF STORM | HGK : NJ = 93, SPC = 90, ATC = 91, LCC =92, SPB = 8D, AGB = 8E, HSB = 8F
 RF WARDEN | OWN : NJ = 1, SPC = 1, ATC = 2, LCC =3, SPB = 1, AGB = 2, HSB = 3
 RF FORTUNE | OWN : NJ = 1, SPC = 1, ATC = 2, LCC =3, SPB = 1, AGB = 2, HSB = 3
+RF KAIROS | HGK : NJ = 93, SPC = 90, ATC = 91, LCC =92, SPB = 8D, AGB = 8E, HSB = 8F
