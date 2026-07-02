@@ -8,3 +8,4 @@ RF ALLSTARS | OWN : NJ = 1, SPC = 1, ATC = 2, LCC = 3, SPB = 1, AGB = 2, HSB = 3
 RF DEFAULT | HGK : NJ = 7D, SPC = 7B, ATC = 7C, LCC = 0, SPB = 78, AGB = 79, HSB = 7A
 RF BLAZE | OWN : NJ = 1, SPC = 1, ATC = 2, LCC =3, SPB = 1, AGB = 2, HSB = 3
 RF OUTBREAK | OWN : NJ = 1, SPC = 1, ATC = 2, LCC =3, SPB = 1, AGB = 2, HSB = 3
+RF EXOTIC | OWN : NJ = 1, SPC = 1, ATC = 2, LCC = 3, SPB = 1, AGB = 2, HSB = 3
